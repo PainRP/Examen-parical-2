@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ActualizarBloque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ActualizarCantidadInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ActualizarJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarBloquesInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuscarBloqueID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuscarBloqueRareza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuscarBloqueTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuscarJugadorID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarBloque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarElementoInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeBloques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventarioJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListadeJugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListarBloques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarBloque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarNuevoJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
